@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?><ficha>
+<deporte id="1">Fútbol</deporte>
+<categoria id="31" canal="copaamerica">Copa América</categoria>
+<campeonato id="3876">Copa AmÃ©rica Centenario 2016</campeonato>
+<campeonatoNombreAlternativo id="3876">Copa AmÃ©rica Centenario</campeonatoNombreAlternativo><horaActual gmt="-3">10:15:19</horaActual><fichapartido id="260295" fecha="Final" tipo="vuelta" dia="20160626" horario="21:00" nombreDia="Domingo" nivelCarga="1" nivelCobertura="1000" formacionStatus="Confirmado">
+<equipo id="21" paisId="1" paisSigla="ARG" pais="Argentina" condicion="local" nombre="Argentina" key="argentina" nombreCorto="Argentina" goles="0" golesDefPenales="2" golesTribDisciplina="" promedio="" indumentaria="1" />
+<equipo id="159" paisId="6" paisSigla="CHI" pais="Chile" condicion="visitante" nombre="Chile" key="chile" nombreCorto="Chile" goles="0" golesDefPenales="4" golesTribDisciplina="" promedio="" indumentaria="1" />
+<incidencias></incidencias>
+<estadoEvento>Finalizado</estadoEvento><horaEstadoEvento>23:53:11</horaEstadoEvento><medios></medios></fichapartido>
+</ficha>
